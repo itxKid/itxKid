@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Jaime Kyes:
 Hello, My name is Jaime Kyes!
 
 
