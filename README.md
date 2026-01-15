@@ -6,6 +6,7 @@ Hello, My name is Jaime Kyes and I am a second-year Computer Science student!
 
 # Interests:
 I have yet to set my mind on one particular thing but so far i have enjoyed Full-stack development and game design
+
 ---
 [![](https://visitcount.itsvg.in/api?id=itxKid&icon=0&color=0)](https://visitcount.itsvg.in)
 
