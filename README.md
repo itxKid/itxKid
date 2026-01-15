@@ -1,5 +1,5 @@
-# 💫 Jaime Kyes:
-Hello, My name is Jaime Kyes!
+# Jaime Kyes:
+Hello, My name is Jaime Kyes and I am a second-year Computer Science student! 
 
 
 # Experience with:
