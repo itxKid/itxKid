@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello
+Hello, My name is Jaime Kyes!
 
 
 # 💻 Tech Stack:
