@@ -7,9 +7,11 @@ Hello, My name is Jaime Kyes and I am a second-year Computer Science student!
 # Projects:
 ## In Progress
 Dinner Decider Website - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<br>
 Limestone Glow Cleaning Website - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ## Future Projects
 Roblox Game - ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+<br>
 Discord Bot for Rust(The game) - TBD
 
 ---
